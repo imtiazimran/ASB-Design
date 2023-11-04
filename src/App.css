@@ -1,0 +1,9 @@
+body{
+  background: #ebeef1;
+}
+
+.neumorphic-button {
+  font-weight: 500;
+  box-shadow: 10px 10px 10px rgba(10, 99, 169, 0.19),
+              -10px -10px 10px rgba(255, 255, 255, 0.70);
+}
