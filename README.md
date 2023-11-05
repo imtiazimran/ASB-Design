@@ -85,7 +85,7 @@ License
 This project is open-source and available under the MIT License.
 
 # Author
-## Imran (https://portfolio-dcc5c.web.app)
+## [Imran](https://portfolio-dcc5c.web.app)
 Feel free to contribute, report issues, or suggest improvements by creating a pull request or raising an issue on GitHub.
 
 Happy calculating! 🧮
