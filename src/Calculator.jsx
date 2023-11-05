@@ -68,7 +68,7 @@ const Calculator = () => {
 
                 }
             </span>
-            <div className="calc-body my-5">
+            <div className="calc-body w-[90%]">
                 <input type="text" className={`my-5 w-full ${isDark ? "bg-slate-800 text-white  focus:border-b-0" : "bg-white"} py-3 text-right text-3xl`} value={input} />
                 <div className={`result text-xl ${isDark ? "bg-slate-800 text-white focus:border-t-0 " : "bg-white"}  -my-[1.25rem] p-3`}>{result}</div>
                 <div className="calc-button-grid grid grid-cols-4  lg:gap-x-10 lg:gap-y-0 gap-3 my-20">
