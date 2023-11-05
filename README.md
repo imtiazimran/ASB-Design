@@ -1,6 +1,6 @@
 # React Calculator App
 
-![Calculator App](calculator-app.png)
+![Calculator App](https://i.ibb.co/x7CNtxh/Light-Mood-Calculator.png)
 
 ## Overview
 
@@ -59,16 +59,8 @@ To run this calculator app locally on your machine, follow these steps:
 1. Clone this repository.
    ```bash
    git clone https://github.com/your-username/react-calculator-app.git
-
-2 / 2
-
-Certainly! Here's a beautiful README.md file for your calculator app:
-
 markdown
 Copy code
-# React Calculator App
-
-![Calculator App](calculator-app.png)
 
 ## Overview
 
@@ -133,8 +125,8 @@ src/: Contains the React components and application logic.
 License
 This project is open-source and available under the MIT License.
 
-## Author
-Imran
+# Author
+## Imran
 Feel free to contribute, report issues, or suggest improvements by creating a pull request or raising an issue on GitHub.
 
 Happy calculating! 🧮
